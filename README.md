@@ -5,38 +5,32 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Author](#author)
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
-
 ### Screenshot
 
-![screenshot of my solution](screenshot.png)
+![](./Screenshot.PNG)
 
 ### Links
 
-- [Solution](https://github.com/kevin-powell/product-preview-card-component-main)
-- [Live version](https://jade-sprinkles-7fbebb.netlify.app/)
+- Solution URL: [https://github.com/yashgjoshi20/QR-code-component]
 
 ## My process
+
+Rather than complicate this with using a framework, I felt using HTML and CSS on their own would be sufficient.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+
+## Author
+
+- GitHub - Yash Joshi (https://github.com/yashgjoshi20)
+- Frontend Mentor - Yash Joshi (https://www.frontendmentor.io/profile/yashgjoshi20)
