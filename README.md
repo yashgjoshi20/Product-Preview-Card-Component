@@ -19,7 +19,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [https://github.com/yashgjoshi20/QR-code-component]
+- Solution URL: [https://github.com/yashgjoshi20/Product.git]
 
 ## My process
 
